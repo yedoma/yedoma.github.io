@@ -64,6 +64,7 @@ body {
 /* Fake image, just for this example */
 .img {
   padding: 1px;
+  width: 180px;
 }
 
 .circular--landscape {
